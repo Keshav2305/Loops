@@ -32,4 +32,5 @@ Do While are essentially same as while loops with a different Syntax.
 
 
 ## Output Screenshot
-#### We put the integer as 54 and see the output as an example
+#### We put the input integer as 54 and see the output as an example
+![Screenshot of the output](image.png)
